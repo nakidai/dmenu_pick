@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "dmenu_pick"
 description = "Some script to pick things using dmenu"
 readme = "README.md"
-version = "v1.0.0"
+version = "v1.0.1"
 authors = [{name = "Nakidai", email = "nakidai@disroot.org"}]
 classifiers = [
     "License :: OSI Approved :: Zero-Clause BSD (0BSD)",
