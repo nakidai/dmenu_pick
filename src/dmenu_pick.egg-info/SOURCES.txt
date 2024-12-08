@@ -1,4 +1,5 @@
 LICENSE
+README.md
 pyproject.toml
 src/dmenu_pick/__init__.py
 src/dmenu_pick/main.py
