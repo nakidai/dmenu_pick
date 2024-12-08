@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: dmenu_pick
+Version: 1.0.0
+Summary: Some script to pick things using dmenu
+Author-email: Nakidai <nakidai@disroot.org>
+Classifier: License :: OSI Approved :: Zero-Clause BSD (0BSD)
+Classifier: Programming Language :: Python :: 3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE

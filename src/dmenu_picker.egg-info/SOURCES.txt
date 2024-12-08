@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+src/dmenu_pick/__init__.py
+src/dmenu_pick/main.py
+src/dmenu_picker.egg-info/PKG-INFO
+src/dmenu_picker.egg-info/SOURCES.txt
+src/dmenu_picker.egg-info/dependency_links.txt
+src/dmenu_picker.egg-info/entry_points.txt
+src/dmenu_picker.egg-info/top_level.txt

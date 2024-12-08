@@ -1,0 +1,2 @@
+[console_scripts]
+dmenu_pick = dmenu_pick:main

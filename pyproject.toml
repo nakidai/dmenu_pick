@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dmenu_pick"
+description = "Some script to pick things using dmenu"
+readme = "README.md"
+version = "v1.0.0"
+authors = [{name = "Nakidai", email = "nakidai@disroot.org"}]
+classifiers = [
+    "License :: OSI Approved :: Zero-Clause BSD (0BSD)",
+    "Programming Language :: Python :: 3.12",
+]
+
+[project.scripts]
+dmenu_pick = "dmenu_pick:main"
